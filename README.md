@@ -32,3 +32,9 @@
 •	  Backend API Integration: Fully functional CRUD API for event management.
 
 •	  Database Support: All event data is stored securely in MongoDB
+
+**Tech Stack**
+Frontend: React.js, Axios, CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Version Control: Git & GitHub
