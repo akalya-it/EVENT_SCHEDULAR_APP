@@ -34,7 +34,11 @@
 •	  Database Support: All event data is stored securely in MongoDB
 
 **Tech Stack**
-Frontend: React.js, Axios, CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-Version Control: Git & GitHub
+• Frontend: React.js, Axios, CSS
+
+• Backend: Node.js, Express.js
+
+• Database: MongoDB
+
+• Version Control: Git & GitHub
+
